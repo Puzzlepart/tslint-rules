@@ -1,5 +1,5 @@
 {
-  "name": "pzl-tslint-rules",
+  "name": "tslint-rules",
   "version": "1.0.1",
   "description": "",
   "main": "base-tslint.json",
