@@ -1,6 +1,6 @@
 {
-  "name": "tslint-rules",
-  "version": "1.0.2",
+  "name": "pzl-tslint-rules",
+  "version": "1.0.3",
   "description": "",
   "main": "base-tslint.json",
   "scripts": {
