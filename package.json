@@ -1,6 +1,6 @@
 {
   "name": "pzl-tslint-rules",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "base-tslint.json",
   "scripts": {
@@ -16,7 +16,7 @@
     "url": "https://github.com/Puzzlepart/tslint-rules/issues"
   },
   "homepage": "https://github.com/Puzzlepart/tslint-rules#readme",
-  "devDependencies": {
+  "dependencies": {
     "@microsoft/sp-tslint-rules": "^1.9.1",
     "tslint-consistent-codestyle": "^1.15.1"
   }
