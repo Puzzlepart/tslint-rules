@@ -31,8 +31,7 @@
         "whitespace": false,
         "quotemark": [
             true,
-            "single",
-            "jsx-double"
+            "single"
         ],
         "naming-convention": [
             true,
